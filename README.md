@@ -4,7 +4,7 @@ Uikit project with no interface builder
 <h2>Control panel screen</h2>
 <img width="246" alt="DashboardView" src="https://user-images.githubusercontent.com/31934552/144060406-5a0e9a5f-393a-47e3-91a7-403162926274.png">
 As a user, you can:
-  1) view all your cash accounts like cash, credit cards, bank accounts, etc.;
+  <li>1) view all your cash accounts like cash, credit cards, bank accounts, etc.;</li>
   2) see the current balance of each account;
   3) see the category, time and amount of each transaction;
   4)create a new transaction by opening the "Add Transaction" screen;
