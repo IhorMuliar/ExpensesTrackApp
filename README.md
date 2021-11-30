@@ -25,3 +25,6 @@ As a user, you can:
 
 <h2>Expense statistics screen</h2>
 <img width="245" alt="ExpensesStatsView" src="https://user-images.githubusercontent.com/31934552/144060443-b93640d5-bee1-48ad-ae4a-cfcd7f85bf82.png">
+As a user, you can:
+  <li>see a list of all available expense categories;</li>
+  <li>see the total amount of all expenses;</li>
