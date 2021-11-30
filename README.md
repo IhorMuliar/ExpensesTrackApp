@@ -10,7 +10,7 @@ As a user, you can:
   <li>create a new transaction by opening the "Add Transaction" screen;</li>
   <li>remove an existing transaction from the list.</li>
   
-  <h4>Can't sort data by account so all transacton listed in each section</h4>
+  <h3>Can't sort data by account so all transacton listed in each section</h3>
 
 
 <h2>Adding a transaction screen</h2>
