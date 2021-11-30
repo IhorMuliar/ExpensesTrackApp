@@ -15,7 +15,13 @@ As a user, you can:
 
 <h2>Adding a transaction screen</h2>
 <img width="247" alt="AddTransactionView" src="https://user-images.githubusercontent.com/31934552/144060450-edd25c34-b74e-4d1f-b360-956930dbd786.png">
-
+As a user, you can:
+  <li>enter account name;</li>
+  <li>enter category name;</li>
+  <li>enter transaction amount;</li>
+  <li>send or cancel a transaction.</li>
+  
+  <h3>Didn't create switch button to change income or expense property so you should enter +100$ or -100$ in ammount textfiled</h3>
 
 <h2>Expense statistics screen</h2>
 <img width="245" alt="ExpensesStatsView" src="https://user-images.githubusercontent.com/31934552/144060443-b93640d5-bee1-48ad-ae4a-cfcd7f85bf82.png">
