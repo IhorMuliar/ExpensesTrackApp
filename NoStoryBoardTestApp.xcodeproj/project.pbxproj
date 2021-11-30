@@ -43,6 +43,33 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		FA48A2572756610E0063C06D /* View */ = {
+			isa = PBXGroup;
+			children = (
+				FA6BDE5B274FC2000005E0D9 /* ExpensesCell.swift */,
+				FA6BDE4E274FB4A70005E0D9 /* LaunchScreen.storyboard */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		FA48A258275661300063C06D /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				FA6BDE57274FB5C80005E0D9 /* DashboardVC.swift */,
+				FA6BDE59274FB6040005E0D9 /* ExpensesVC.swift */,
+				FA6FABF72750E6FF002273A9 /* AddTransactionVC.swift */,
+			);
+			path = Controller;
+			sourceTree = "<group>";
+		};
+		FA48A259275661530063C06D /* CoreData */ = {
+			isa = PBXGroup;
+			children = (
+				FA6BDE49274FB4A60005E0D9 /* NoStoryBoardTestApp.xcdatamodeld */,
+			);
+			path = CoreData;
+			sourceTree = "<group>";
+		};
 		FA6BDE34274FB4A60005E0D9 = {
 			isa = PBXGroup;
 			children = (
@@ -62,16 +89,13 @@
 		FA6BDE3F274FB4A60005E0D9 /* NoStoryBoardTestApp */ = {
 			isa = PBXGroup;
 			children = (
+				FA48A259275661530063C06D /* CoreData */,
+				FA48A258275661300063C06D /* Controller */,
+				FA48A2572756610E0063C06D /* View */,
 				FA6BDE40274FB4A60005E0D9 /* AppDelegate.swift */,
 				FA6BDE42274FB4A60005E0D9 /* SceneDelegate.swift */,
 				FA6BDE4C274FB4A70005E0D9 /* Assets.xcassets */,
-				FA6BDE4E274FB4A70005E0D9 /* LaunchScreen.storyboard */,
 				FA6BDE51274FB4A70005E0D9 /* Info.plist */,
-				FA6BDE49274FB4A60005E0D9 /* NoStoryBoardTestApp.xcdatamodeld */,
-				FA6BDE57274FB5C80005E0D9 /* DashboardVC.swift */,
-				FA6BDE59274FB6040005E0D9 /* ExpensesVC.swift */,
-				FA6BDE5B274FC2000005E0D9 /* ExpensesCell.swift */,
-				FA6FABF72750E6FF002273A9 /* AddTransactionVC.swift */,
 			);
 			path = NoStoryBoardTestApp;
 			sourceTree = "<group>";

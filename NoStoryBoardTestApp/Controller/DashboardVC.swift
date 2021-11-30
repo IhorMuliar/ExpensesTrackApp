@@ -43,6 +43,7 @@ class DashboardVC: UIViewController, UITableViewDataSource, UITableViewDelegate 
         tableView.dataSource = self
         tableView.delegate = self
         
+        
         navigationItem.rightBarButtonItem = UIBarButtonItem(barButtonSystemItem: .add, target: self, action: #selector(addTapped))
         navigationItem.rightBarButtonItem?.tintColor = .systemGray
         
